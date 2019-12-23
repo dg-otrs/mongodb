@@ -1,4 +1,4 @@
 {
  "schemaVersion": 2,
- "imageName": "mongo:3.0 --smallfiles"
+ "imageName": "bitnami/mongodb:latest"
 }
