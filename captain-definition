@@ -1,4 +1,4 @@
 {
  "schemaVersion": 2,
- "imageName": "bitnami/mongodb:latest"
+ "imageName": "bitnami/mongodb:4.4"
 }
